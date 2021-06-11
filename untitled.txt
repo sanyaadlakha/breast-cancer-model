@@ -1,0 +1,14 @@
+1. LinearRegression=FAIL
+
+2.DecisionTreeRegression
+    Mean: 0.2798929938784109
+    Standard Deviation: 0.07100390475077505
+    
+3.KNearestNeighbors
+    Mean: 0.18948913575147602
+    Standard Deviation: 0.045882150995618855
+  
+4.LogisticRegression
+    Mean: 0.6194896593792055
+    Standard Deviation: 0.17829222495047675
+   
